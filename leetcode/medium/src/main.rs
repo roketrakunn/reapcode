@@ -1,3 +1,4 @@
+mod longest_trubulant;
 mod div_two_ints;
 mod maxi_points;
 mod double_modular_exp;
