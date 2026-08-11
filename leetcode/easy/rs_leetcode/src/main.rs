@@ -1,3 +1,4 @@
+mod check_string;
 mod smallest;
 mod check_balanced_string;
 mod max_achievable;
