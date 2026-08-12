@@ -1,3 +1,4 @@
+mod snake_in_matrix;
 mod check_string;
 mod smallest;
 mod check_balanced_string;
