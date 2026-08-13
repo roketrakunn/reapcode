@@ -1,3 +1,4 @@
+mod taking_max_energy;
 mod longest_trubulant;
 mod div_two_ints;
 mod maxi_points;
